@@ -77,10 +77,10 @@ $ vagrant halt
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/AbranJames/EyesUp_Pipeline.git
+$ git clone https://github.com/AbranJames/project_asa.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd EyesUp_Pipeline
+$ cd project_asa
 
 # Execute o comando abaixo para criar o container e executar o projeto
 $ docker compose up -d
