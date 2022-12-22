@@ -6,9 +6,7 @@
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/AbranJames/EyesUp_Pipeline">
 
-<a href="
 <img alt="Made by AbranJames" src="https://img.shields.io/badge/made%20by-AbranJames-%2304D361">
-</a>
 
 </p>
 
